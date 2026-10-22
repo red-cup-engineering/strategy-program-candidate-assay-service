@@ -23,5 +23,10 @@
     "check": "node --check src/assay.mjs",
     "test": "node --test test/*.test.mjs",
     "verify": "npm run check && npm test && npm pack --dry-run"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
