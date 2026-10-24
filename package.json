@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "acorn": "8.15.0",
-    "@red-cup-engineering/uri-services-section": "workspace:*"
+    "@red-cup-engineering/uri-engineering-services-section": "workspace:*"
   },
   "scripts": {
     "check": "node --check src/assay.mjs",
